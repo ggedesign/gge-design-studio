@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ggedesign.github.io/gge-design-studio/sitemap.xml
